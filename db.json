@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Sample Article 1",
+      "summary": "<h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h1>",
+      "createdAt": "2024-01-17T06:08:20.937Z",
+      "updatedAt": "2024-01-18T03:33:21.627Z",
+      "publisher": "Sample Publisher",
+      "date": "1990-11-11"
+    },
+    {
+      "title": "Test",
+      "summary": "test desc",
+      "date": "1330-11-11",
+      "publisher": "test",
+      "id": 2
+    },
+    {
+      "title": "test",
+      "summary": "desc",
+      "date": "2011-11-11",
+      "publisher": "test 2",
+      "id": 3
+    }
+  ]
+}
